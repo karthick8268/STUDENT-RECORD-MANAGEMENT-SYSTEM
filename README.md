@@ -114,3 +114,16 @@ The console-based version is implemented, and its main features have been tested
 ---
 
 ⭐ If you find this project useful, feel free to explore the code and share feedback!
+
+Copyright and Usage
+
+© 2026 Project Author. All rights reserved.
+
+This project is shared publicly for learning, demonstration, and portfolio purposes.
+
+Viewing the source code does not grant permission to reuse, modify, redistribute, or publish it as part of another project.
+
+If you would like to reuse or adapt this project, please contact the author and obtain permission first.
+
+Author: Karthick B.
+Project: Student Record Management System (C++)
