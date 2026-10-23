@@ -50,6 +50,7 @@ Prerequisites
 - Visual Studio Code or another C++ development environment
 
 Step 1: Clone the Repository
+https://github.com/karthick8268/STUDENT-RECORD-MANAGEMENT-SYSTEM
 
 
 
