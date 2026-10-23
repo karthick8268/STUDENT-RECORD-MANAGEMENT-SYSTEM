@@ -51,9 +51,7 @@ Prerequisites
 
 Step 1: Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
 
-Replace "YOUR_GITHUB_REPOSITORY_URL" with your actual repository URL.
 
 Step 2: Open the Project Folder
 
